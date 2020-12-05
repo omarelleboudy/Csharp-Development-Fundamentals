@@ -1,0 +1,6 @@
+D:\C# Dev Fundamentals\ACM\Acme.common\bin\Debug\Acme.common.dll
+D:\C# Dev Fundamentals\ACM\Acme.common\bin\Debug\Acme.common.pdb
+D:\C# Dev Fundamentals\ACM\Acme.common\obj\Debug\Acme.common.csprojAssemblyReference.cache
+D:\C# Dev Fundamentals\ACM\Acme.common\obj\Debug\Acme.common.csproj.CoreCompileInputs.cache
+D:\C# Dev Fundamentals\ACM\Acme.common\obj\Debug\Acme.common.dll
+D:\C# Dev Fundamentals\ACM\Acme.common\obj\Debug\Acme.common.pdb

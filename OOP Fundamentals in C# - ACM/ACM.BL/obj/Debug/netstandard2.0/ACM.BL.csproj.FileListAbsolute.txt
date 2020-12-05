@@ -1,0 +1,12 @@
+D:\C# Dev Fundamentals\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+D:\C# Dev Fundamentals\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+D:\C# Dev Fundamentals\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb
+D:\C# Dev Fundamentals\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csprojAssemblyReference.cache
+D:\C# Dev Fundamentals\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+D:\C# Dev Fundamentals\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+D:\C# Dev Fundamentals\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
+D:\C# Dev Fundamentals\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+D:\C# Dev Fundamentals\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
+D:\C# Dev Fundamentals\ACM\ACM.BL\bin\Debug\netstandard2.0\Acme.common.dll
+D:\C# Dev Fundamentals\ACM\ACM.BL\bin\Debug\netstandard2.0\Acme.common.pdb
+D:\C# Dev Fundamentals\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CopyComplete

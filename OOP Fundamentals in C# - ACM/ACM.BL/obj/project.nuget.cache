@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJPu21hghl6Jcam7N3oAlTrDzKuzWrCPSyBciRIuKCzN0rjscObkuDJGrxi44JiLd0By8NKXaC0d5aBbS2xL+w==",
+  "success": true,
+  "projectFilePath": "D:\\C# Dev Fundamentals\\OOP Fundamentals in C# - ACM\\ACM.BL\\ACM.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omare\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\omare\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
